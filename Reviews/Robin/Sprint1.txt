@@ -1,0 +1,23 @@
+1. Sprint:
+
+1. Technisches Review
+
+Die Controllerimplementation ist vom technischen Gesichtspunkt einfach, da CodeIgniter und PHP keine schweren Tools sind. Aber die Vorgaben in Form von Diagrammen lassen doch noch etwas zu wünschen übrig, da leider immer Details fehlen und man sich diese selber ausdenken muss.
+Das Management des Teams und die Organisation im Hintergrund verlangen viel Einsatz und Fingerspitzengefühl. Da aber hier genug Übung vorhanden ist lief das Team bisher nicht aus dem Ruder und hat gut zusammengefunden.
+
+2. Zusammenarbeit im Team
+
+Im kleinen Team hat es sehr gut geklappt. Oft wurde zu zweit programmiert und es gab dabei gute Fortschritte.
+Auf das gesamte Team hin gesehen ist die Zusammenarbeit fruchtbar. Am Anfang waren Teile des Teams ( besonders Teile des Model Teams ) etwas unmotiviert, aber das gehört zum Projektleben dazu. Konstruktive Kritik bzw. die Forderung nach Features und die Kommunikation bei Misständen funktioniert prima.
+
+3. Wie klar waren die Vorgaben?
+
+Im nachhinein ist man wohl immer etwas schlauer. Leider haben die Vorgaben beim ersten Sprint nicht so ganz geklappt. Es wurde die Forderung nach klareren Abläufen erst bei der Abnahme des Produkts klar. Ein klarer Punkt, den man beim zweiten Sprint verbessern kann.
+
+4. Wie klappen die Tools?
+
+CodeIgniter, Trello und GitHub haben mich positiv überrascht. Der Workflow ist sehr einfach und effizient.
+
+5. Sonstiges
+
+Professor Zeller hinterherzurennen ist etwas stressig, aber man kommt damit zurecht. Es ist nicht so, als wäre es das erste Mal, dass man mit einer viel beschäftigten Personen zu tun hat.

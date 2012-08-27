@@ -1,0 +1,25 @@
+1. Technisches Review (was wurden für Informatikfähigkeiten 
+angewandt)
+
+-
+
+2. Zusammenarbeit im Team
+Ein entscheidendes Problem schien die recht große Differenz bzgl der Programmierfertigkeiten zu sein. Auch der zeitlich große Abstand von einer Woche, zwischen den einzelnen Meetings, der den Projektfluss träge zu machen scheint, spielt dahingehend eine Rolle, dass durch Unsicherheit und dieser Verschleppungsmentalität zentrale Aufgaben nur mühselig oder durch Rückgriff auf extreme Programming fertig gestellt werden konnten.
+Ein weiteres zentrales Problem war die simultane Fertigstellung einzelner Projektschritte, kurzum, wer warten muss, bis ein anderer zur selben Zeit Voraussetzungen zur Verfügung stellt, dem läuft die Zeit davon ohne dass Aufgaben effektiv angegangen werden konnten.
+Weiter kam durch mangelnde Validierung zu unnötigen Verzögerungen.
+
+
+3. Wie klar waren die Vorgaben?
+Die Vorgaben schienen klar waren aber mangelhaft bis fehlerhaft definiert, was schlichtweg zu Missverständnissen führte, die den Projektfluss entscheidend, negtiv beeinflussten.
+
+(pers bsp. machs rein oder lasses weg :)
+Aus meinem persönlichen Erfahrungsschatz, ist es unzulänglich (lächerlich find ich eigentlich besser) bspw eine Funktionalität zu fordern, aber im Nachhinen die Einhaltung von Kriterien als Vorausgesetzt darzustellen. Insbesondere dann, wenn seitens der Entwicklungsumgebung, von der Eingangs beschlossen wurde, möglichst deren Möglichkeiten auszunutzen, diese Funktionalität, die aber die Kriterien nicht erfüllt, gegeben ist.
+
+
+4. Wie klappen die Tools?
+Die Tools funktionieren fehlerfrei, konnten das Kommunikationsdefizit allerdings nicht kaschieren.
+
+
+5. Sonstiges
+
+

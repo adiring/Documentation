@@ -1,0 +1,15 @@
+1. Technisches Review (was wurden für Informatikfähigkeiten angewandt)
+
+Die Funktionalität die im 2. Sprint in der Webseite im Controller umgesetzt wird, ist nicht wirklich kompliziert. Es müssen aber sehr viele verschiedene Fälle beachtet werden. Außerdem ist das Zusammenspiel zwischen den einzelnen, durch Login geschützten Bereichen, und den öffentlich zugänglichen Informationen nicht immer ganz einfach zu realisieren, aber von den Informatiktechniken her gesehen einfach.
+
+2. Zusammenarbeit im Team
+
+Das Controller Team hat in diesem Sprint nicht so eng zusammengearbeitet, aber durch Gespräche und das hervorragende Trello konnten wir uns gut koordinieren.
+
+3. Wie klar waren die Vorgaben?
+
+Auf jeden Fall viel bessere Vorgaben als im 1. Sprint, die Workflow Diagramme haben sehr geholfen. Leider waren die Übergabeparameter noch nicht im Workflow enthalten, da musste doch noch des öfteren nachgefragt werden.
+
+4. Wie klappen die Tools?
+
+Die Tools sind selbstverständlich geworden und auch das Erklären von Feinheiten für die anderen Teammitglieder war sehr gut möglich.

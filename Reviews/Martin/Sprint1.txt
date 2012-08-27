@@ -1,0 +1,22 @@
+1. Technisches Review
+
+Die Controllerimplementation ist vom technischen Gesichtspunkt einfach, da CodeIgniter und PHP keine schweren Tools sind. Aber die Vorgaben in Form von Diagrammen lassen doch noch etwas zu wünschen übrig, da leider immer Details fehlen und man sich diese selber ausdenken muss.
+
+2. Zusammenarbeit im Team
+
+Die Kommunikation im kleinen Team verlief problemlos, pairprogramming war maßgebend für den Erfolg des ersten Sprints.
+Im team selbst wies wurden unklarheiten weniger kommuniziert, was letztlich zu einigem Chaos in der Vorgehensweise führte.
+Durch das Ergreifen geeigneter Maßnahmen wurde das Workflowproblem allderdings frühzeitg in Angriff genommen und wird sich im zweiten Sprint sicher verbessern.
+Probleme wurden allgemein offen kommuniziert und entsprechend im Team zu einer Lösung geführt, sodass sich nach ersten Anlaufschwierigkeiten, die nicht zuletzt auf schwammige argaben zurückzufürhen sind, eine gewisse Dynamik enstellte.
+
+3. Wie klar waren die Vorgaben?
+
+Wie erwähnt wearen die Vorgaben anfangs sehr unklar. Schnittstellen wurden nicht formell definiert, sondern eher mehr von Mund zu Mund verbreitet. Auch der Einstieg in eine für einige neue Materie tat sein übriges dazu etwas Verwirrung zu stiften. Trotz des sehr agilen Vorgehens konnte der Sprint deshalb wohl nicht erfolgreich abgeschlossen werden.
+
+4. Wie klappen die Tools?
+
+Nach anfänglichen Startschwierigkeiten, die aber dank guter Webdokumentation recht schnell verschwanden, funktionieren soweit einwandfrei. (Was willst denn da schreiben?Dass die anderen voll gut dokumentiert habne?)
+
+5. Sonstiges
+
+Im weiteren Verlauf sollten in jedem Fall wieder Gewichte in den logistischen Bereich gelegt werden. Ein stärker abgestimmtes Vorgehen beim Programmieraufwand selbst und nicht zuletzt eine weitere Formalisierung der Schnittstellen. Dabei könnte eine Timetable, ähnlich der Forderung des Modelteams nach einem Vorsprung, bezogen auf die einzelnen Gruppen hilfreich sein.
