@@ -1,0 +1,24 @@
+3./4. Sprint:
+
+1. Technisches Review
+
+Die informatischen Aufgaben im Rest des Projekts bestanden aus:
+- Traversieren eines NestedSets um daraus einen Baum zu erstellen
+- Sammeln und verwalten der Interessenten Liste
+- Rollen für Benutzer setzen
+
+2. Zusammenarbeit im Team
+
+Leider viel die Arbeit einiger Teamkollegen besonders in diesen beiden Sprints sehr gering aus.
+
+3. Wie klar waren die Vorgaben?
+
+Schwammig und umsetzbar in einem. Es bleibt Platz für eigene Ideen.
+
+4. Wie klappen die Tools?
+
+Eigentlich gut, aber das Arbeiten an der gleichen Datei in verschiedenen Branches führte im Nachhinen zu Problemen.
+
+5. Sonstiges
+
+Trotz dem Aufwand der betrieben wurde um den Studenten die bürokratischen Hürden und Bürden abzunehmen, sind die meisten Teammitglieder immer noch nicht genug an der Hand genommen worden. Daher ist auch das Resultat zu diesem Zeitpunkt nicht funktionsfähig.
