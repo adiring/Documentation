@@ -1,0 +1,15 @@
+1. Technisches Review
+
+Die funktionelle Aufteilung der geforderten Funktionen waren unklar. Schnittstellen und Übergabeparameter wurden nicht klar definiert, sodass Probleme bei der Umsetzung entstanden. Es wurden lediglich PHP Anfragen zwischen View und Model weitergeleitet.
+
+2. Zusammenarbeit im Team
+
+Leider fiel ein Mitglied der Gruppe zeitweise krankheitsbedingt aus, was den Projektfluss negativ beeinflusste. Unklarheiten in den Definitionen und Verzögerungen beeinflussten die Kommunikation negativ. Auch der recht große Unterschied zwischen den Fertigkeiten der Gruppenmitglieder trug dazu bei, dass das Ziel einer Suchfunktion nur teilweise erreicht werden konnte.
+
+3. Wie klappen die Tools?
+
+Keine Schwierigkeiten im Umgang mit den Tools
+
+4. Fazit
+
+Im weiteren Verlauf sollte auf jeden Fall an der Kommunikation gearbeitet werden. Ein stärker abgestimmtes Vorgehen beim Programmieraufwand selbst und nicht zuletzt eine weitere Formalisierung der Schnittstellen.
